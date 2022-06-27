@@ -1,0 +1,111 @@
+	#cologne{
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 100;
+		text-align: left;
+		font-size: 10px;
+		color: grey;
+		position: relative;
+		left: 15px;
+	}
+	
+	.parfum{
+		font-family: 'Fraunces', serif;
+		text-align: left;
+		font-size: 23px;
+		position: relative;
+		left: 15px;
+		bottom: 10px;
+		font-weight: 900;
+	}
+	
+	.note{
+		font-family: 'Montserrat', sans-serif;
+		font-weight: 100;
+		font-size: 11px;
+		text-align: left;
+		color: grey;
+		position: relative;
+		left: 15px;
+		bottom: 10px;
+	}
+	
+	.box-ii{
+		border: none;
+		background-color: hsl(0, 0%, 100%);
+		width: 200px;
+		height: 300px;
+		padding-top: 12px;
+		position: relative;
+		bottom: 2px;
+		border-top-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+	}
+	
+	.price{
+		font-family: 'Fraunces', serif;
+		font-size: 20px;
+		color: hsl(158, 36%, 37%);
+		position: relative;
+		right: 48px;
+		bottom: 10px;
+	}
+	
+	#dtag{
+		font-family: 'Fraunces', serif;
+		font-size: 9px;
+		font-weight: 100;
+		position: relative;
+		bottom: 53px;
+		left: 30px;
+		color: gray;
+	}
+	
+	.main-bg{
+		background-color: hsl(30, 38%, 92%);
+		height: 500px;
+	}
+	
+	table{
+		position: relative;
+		left: 400px;
+		top: 50px;
+	}
+	
+	.box-inner{
+		border: 1px solid;
+		background-color: hsl(158, 36%, 37%);
+		height: 30px;
+		position: relative;
+		bottom: 30px;
+		width: 155px;
+		left: 18px;
+		border-radius: 5px;
+	}
+	
+	#cart{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 12px;
+		position: relative;
+		top: 5px;
+	}
+	
+	a{
+		color: white;
+		text-decoration: none;
+	}
+	
+	.box-inner:hover{
+		background-color: hsl(158, 36%, 17%);
+	}
+	
+	.icon{
+		position: relative;
+		top: 7px;
+	}
+	
+	#perfume{
+		position: relative;
+		left: 4px;
+		border-top-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
